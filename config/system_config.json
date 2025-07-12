@@ -1,0 +1,6 @@
+{
+    "accessMode": "whitelist",
+    "logAttempts": true,
+    "notifications": true,
+    "autoRefresh": true
+}
